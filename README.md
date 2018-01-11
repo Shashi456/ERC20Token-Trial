@@ -3,7 +3,7 @@
 This was a trial way to make an erc 20 token with existing code from some tutorial . This was done on the Ropsten Test Net , mainnet deploy
 deployments take actual ether which would cost money . 
 
-You also use [Metamask](https://metamask.io/)for all of this and that is a good plugin to add to run ethereum based websites. 
+You also use [Metamask] (https://metamask.io/)for all of this and that is a good plugin to add to run ethereum based websites. 
 
 Solidity seems really interesting and now i have somewhat understood ethereum and the erc20 tokens more than i used to.
 
