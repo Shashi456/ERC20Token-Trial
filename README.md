@@ -6,3 +6,13 @@ deployments take actual ether which would cost money .
 Solidity seems really interesting and now i have somewhat understood ethereum and the erc20 tokens more than i used to.
 
 Use the remix solidity compiler and let the settings remain as they were , errors are too common and take time to solve since its a developing community.
+
+
+Some nice tutorials to look at would be :
+1].https://hashnode.com/post/how-to-build-your-own-ethereum-based-erc20-token-and-launch-an-ico-in-next-20-minutes-cjbcpwzec01c93awtbij90uzn
+
+My contract Address :  	0x9d47d02a4fc617ae8d9c3723ee32b115554edc5b
+
+The token is Paws [PAW] .
+
+
